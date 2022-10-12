@@ -1,6 +1,6 @@
 # unlTest
 
-to start project make shure that in **vite.config.js line 10** is uncommented,
+to start project make sure that in **vite.config.js line 10** is uncommented,
 ```
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
@@ -17,7 +17,7 @@ export default defineConfig({
 })
 ```
 
-if you wanna build project, then comment in vite.config.js line 10 ( global:{} )
+if you wanna build project, then comment line 10 in vite.config.js
 
 ```
 import { defineConfig } from 'vite'
